@@ -13,3 +13,7 @@ deepseekAPI申请链接：https://platform.deepseek.com/api_keys
 3、打开.html文件:
 一个简易的界面如储存库中图片所示。
 
+四、参考文献：
+[1] Liu, B., Li, X., Zhang, J., Wang, J., He, T., Hong, S., Liu, H., Zhang, S., Song, K., Zhu, K., Cheng, Y., Wang, S., Wang, X., Luo, Y., Jin, H., Zhang, P., Liu, O., Chen, J., Zhang, H., Yu, Z., Shi, H., Li, B., Wu, D.M., Teng, F., Jia, X., Xu, J., Xiang, J., Lin, Y., Liu, T., Liu, T., Su, Y., Sun, H., Berseth, G., Nie, J., Foster, I.T., Ward, L.T., Wu, Q., Gu, Y., Zhuge, M., Tang, X., Wang, H., You, J., Wang, C., Pei, J., Yang, Q., Qi, X., & Wu, C. (2025). Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems. ArXiv, abs/2504.01990.
+
+[2] Korinek, Anton. 2023. "Generative AI for Economic Research: Use Cases and Implications for Economists." Journal of Economic Literature 61 (4): 1281–1317.
